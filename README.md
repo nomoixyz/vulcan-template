@@ -6,7 +6,7 @@ Includes [vulcan](https://github.com/nomoixyz/vulcan) to make your life easier w
 
 ## How to use the template
 
-[Clik here](https://github.com/PaulRBerg/foundry-template/generate) to let github create the project
+[Clik here](https://github.com/nomoixyz/foundry-template/generate) to let github create the project
 or do it manually by using the `forge init` cli command
 ```sh
 forge init my-awesome-vulcan-project --template https://github.com/nomoixyz/vulcan-template
