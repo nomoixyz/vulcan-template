@@ -28,6 +28,11 @@ jobs:
           forge build --sizes
         id: build
 
+      - name: Check format
+        run: |
+          forge fmt --check
+        id: format-check
+
       - name: Run Forge tests
         run: |
           forge test -vvv
