@@ -1,7 +1,7 @@
 # Vulcan Template
 
 This repository is a template for smart contract projects based on [Foundry](https://github.com/foundry-rs/foundry).
-It includes [Vulcan](https://github.com/nomoixyz/vulcan) to make your life easier when writing tests. :heart:
+It includes [Vulcan](https://github.com/nomoixyz/vulcan) to make your life easier when writing tests and scripts. :heart:
 
 ## How to use the template
 
